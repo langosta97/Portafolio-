@@ -7,9 +7,22 @@ nav {
 .navbar-brand {
     margin-left: 40%;
 }
-p {
+.lead {
     background-color: rgb(120, 1, 231);
     color: rgb(199, 202, 206);
     padding: 3%;
-    margin: 10%
+    margin: 5%;
+    
+}
+.card{
+    background-color: rgb(180, 160, 228);
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+
+}
+.card1{
+    background-color: rgb(219, 180, 255);
+    margin-left: 3%;
+    margin-top: 5%;;
 }
