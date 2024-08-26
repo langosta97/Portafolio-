@@ -8,21 +8,45 @@ nav {
     margin-left: 40%;
 }
 .lead {
-    background-color: rgb(120, 1, 231);
-    color: rgb(199, 202, 206);
+    background-color: rgb(185, 150, 216);
+    border:solid;
+    border-color: #776b8d;
+    color: rgb(5, 5, 23);
     padding: 3%;
     margin: 5%;
     
 }
+h5{
+    display: none;
+}
+main{
+    display: flex;
+    justify-content: space-between;
+}
+#gatito{
+    width: 300px;
+    height: 300px;
+    margin-left: 5%;
+}
+#gatito2{
+    width: 200px;
+    height: 200px;
+    margin: 5%;
+}
 .card{
     background-color: rgb(180, 160, 228);
-    align-items: center;
+    color: rgb(55, 59, 29);
     width: 50%;
-    margin-left: 25%;
+    margin: 2%;
+    border-color: #4307b3;
 
 }
-.card1{
-    background-color: rgb(219, 180, 255);
-    margin-left: 3%;
-    margin-top: 5%;;
+section{
+    margin: 5%;
+    width: ;
+}
+
+footer{
+    background-color: #9572d6; 
+    margin: 10%;
 }
