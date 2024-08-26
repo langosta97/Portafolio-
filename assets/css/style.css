@@ -2,50 +2,67 @@ body {
     background-color: #9572d6;
 }   
 nav {
-    background-color:rgb(180, 135, 232);
+    background-color:rgb(198, 189, 208);
 }
 .navbar-brand {
-    margin-left: 40%;
+    margin-left: 1%;
 }
 .lead {
-    background-color: rgb(185, 150, 216);
+    background-color: rgb(181, 121, 207);
     border:solid;
     border-color: #776b8d;
     color: rgb(5, 5, 23);
+    margin: 10%;
     padding: 3%;
-    margin: 5%;
-    
+    justify-content: center;
 }
-h5{
-    display: none;
+#click{
+    width: 40px;
+    
 }
 main{
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 }
-#gatito{
-    width: 300px;
-    height: 300px;
+.gatito{
+    width: 200px;
+    height: 200px;
     margin-left: 5%;
 }
-#gatito2{
+.gatito2{
     width: 200px;
     height: 200px;
     margin: 5%;
 }
-.card{
+.card-body{
     background-color: rgb(180, 160, 228);
     color: rgb(55, 59, 29);
     width: 50%;
-    margin: 2%;
-    border-color: #4307b3;
-
-}
-section{
+    height: 30%;
     margin: 5%;
-    width: ;
-}
+    border:solid;
+    border-color: #8354dc;
 
+}
+.card{
+    background-color: rgb(192, 175, 232);
+    display: none;
+    align-items: center;
+    height: 800px;
+    width: 800px;
+    margin-left: 18%;
+    text-align: center;
+
+}
+#catcomputer{
+    width: 800px;
+    height: 300px;
+}
+#computer{
+    width: 80px;
+    height: 80px;
+}
 footer{
     background-color: #9572d6; 
     margin: 10%;
