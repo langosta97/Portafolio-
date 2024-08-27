@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(116, 86, 144);
+    display: block;
+
+}
+#gatobien{
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+}
+#alert{
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
